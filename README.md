@@ -1,2 +1,2 @@
 # pages
-Collection of static sites.
+Collection of static sites for testing and investigative purposes.
